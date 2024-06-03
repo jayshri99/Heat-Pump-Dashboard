@@ -20,3 +20,18 @@ Heat pump manufacturers publish performance specifications, importantly includin
   - Historical data plot and table.
   - Interactive map with location pin.
   - Coordinates display for the weather station.
+
+### Setup Instructions
+1. **Environment Preparation**: Ensure that Python is installed on your system. 
+2. **Clone the Repository**: Clone the project repository from GitHub or another version control system.
+   ```bash
+   git clone <repository-url>
+   ```
+3. **Install Dependencies**: Navigate to the cloned directory and run the following command to install the necessary Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the Application**: Start the web server. 
+   ```bash
+   python app.py
+   ```
