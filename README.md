@@ -1,5 +1,17 @@
-# CS 498 End-to-End Data Science MP 01 (sp24) repo for NetID: jayshri2
+## Heat Pump Dashboard
 
-GitHub username at initialization time: jayshri99
+The goal of this project is to create an interactive dashboard that helps determine the efficacy of installing a heat pump depending on the weather in a particular location in the United States.
 
-For next steps, please refer to the instructions provided by your course.
+# Application Features
+
+User Input:
+- City and state (autocompleted).
+- Date range (default: 2022-01-01 to 2024-01-01).
+- Temperature units (Fahrenheit/Celsius).
+- Temperature slider for plotting.
+- Weekly and monthly rolling averages.
+- Temperature range slider for table data.
+Reactive Elements:
+- Historical data plot and table.
+- Interactive map with location pin.
+- Coordinates display for the weather station.
